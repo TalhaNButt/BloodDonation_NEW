@@ -1,0 +1,48 @@
+div{
+}
+
+.title>img{
+float: left;
+width: 10%;
+}
+
+.title>h1{
+    font-family: "American Typewriter";
+    float: right;
+}
+
+.title>p{
+    text-align: justify;
+}
+
+.row{
+    padding-bottom: 2em;
+}
+
+.nav>form-inline{
+    float: right;
+}
+
+.ImageMain{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 5em;
+}
+
+.MainHeading{
+    padding-top: 3em;
+}
+
+#BtnMain1{
+    display: inline;
+   margin-left: 20%;
+    width: 30%;
+}
+#BtnMain2{
+    width: 30%;
+}
+
+
+
