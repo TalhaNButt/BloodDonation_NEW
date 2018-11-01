@@ -1,6 +1,15 @@
 div{
 }
 
+#Sign{
+    color: white;
+    text-decoration: underline;
+}
+
+a:hover {
+    background-color: darkslategrey;
+}
+
 .title>img{
 float: left;
 width: 10%;
@@ -23,6 +32,14 @@ width: 10%;
     float: right;
 }
 
+#Above{
+    border-bottom: 2px solid black;
+}
+
+#Below{
+    padding-top: 1em;
+}
+
 .ImageMain{
     display: block;
     margin-left: auto;
@@ -37,12 +54,32 @@ width: 10%;
 
 #BtnMain1{
     display: inline;
-   margin-left: 20%;
+   margin-left: 35%;
     width: 30%;
+    background-color: red;
 }
+
 #BtnMain2{
     width: 30%;
 }
 
+#cardGroup{
+    margin: 5em;
+}
+
+.card-body,.card-header{
+    border: 2px darkslategrey;
+
+}
+
+#footer{
+    background-color: darkgrey;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 10%;
+    color: white;
+    text-align: center;
+}
 
 
